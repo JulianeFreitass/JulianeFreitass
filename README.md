@@ -15,7 +15,9 @@ Estudante de Análise e Desenvolvimento de Sistemas na FATEC - Prof. Jessen Vida
 
 
 ## About me :woman:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliane-freitas-9b6287163/)](https://www.linkedin.com/in/juliane-freitas-9b6287163/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliane-freitas-9b6287163/)](https://www.linkedin.com/in/juliane-freitas-9b6287163/) <a href="mailto:<juliane.freitas55@gmail.com>" alt="gmail" target="_blank">
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:juliane.freitas55@gmail.com" />
+</a>
 
 
 - Thanks for visiting!! <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%;"></a>
