@@ -2,11 +2,11 @@
 
 
 <p style="display: inline_block"  align="center">I'm a Systems Analysis and Development student at FATEC - Jessen Vidal, São José dos Campos/SP. :woman_technologist: </p>
+<div align="center">
+<img src="https://data.whicdn.com/images/314985289/original.gif" width="800" alt="Minha Figura">
+</div>
 
-<img src="https://data.whicdn.com/images/314985289/original.gif" alt="Minha Figura">
-
-
-<H3 style="display: inline_block"enter" align="center">My stats 	:chart_with_upwards_trend: </H3>
+<H3 style="display: inline_block" align="center">My stats 	:chart_with_upwards_trend: </H3>
 <div align="center">
   <a href="https://github.com/JulianeFreitass">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JulianeFreitass&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
