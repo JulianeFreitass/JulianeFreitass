@@ -1,9 +1,12 @@
 <H1  align="center"> Hi, I'm Juliane Freitas :D </H1>
 
 
-<p style="display: inline_block"  align="center">I'm a student at FATEC - Prof. Jessen Vidal in São José dos Campos/SP. :woman_technologist: </p>
+<p style="display: inline_block"  align="center">I'm a Systems Analysis and Development student at FATEC - Jessen Vidal, São José dos Campos/SP. :woman_technologist: </p>
+
+<img src="https://data.whicdn.com/images/314985289/original.gif" alt="Minha Figura">
 
 
+<H3 style="display: inline_block"enter" align="center">My stats 	:chart_with_upwards_trend: </H3>
 <div align="center">
   <a href="https://github.com/JulianeFreitass">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JulianeFreitass&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -20,7 +23,7 @@
                                                                                                                                       
 </div> 
 
-<H3 style="display: inline_block"enter" align="center">About me :woman:</H3>
+<H3 style="display: inline_block"enter" align="center"> Contact me :woman:</H3>
 
 <div style="display: inline_block" align="center"> 
 
@@ -28,6 +31,6 @@
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:juliane.freitas55@gmail.com" />
 </a>
 
-  
-  
+![Snake animation](https://github.com/JulianeFreitass/JulianeFreitass/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
