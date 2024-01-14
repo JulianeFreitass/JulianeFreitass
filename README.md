@@ -1,6 +1,6 @@
 <H1  align="center"> Hi, I'm Juliane Freitas 👋 </H1>
 
-
+<img align="right" src="./imgs/user.png"  width="150"/>
  <br>
  
  - 🎓 I'm gradueted in Systems Analysis and Development at FATEC-SJC
