@@ -1,6 +1,6 @@
 <H1  align="center"> Hi, I'm Juliane Freitas 👋 </H1>
 
-<img align="right" src="./imgs/user.png"  width="200"/>
+<img align="right" src="./imgs/user.png"  width="200"/><br><br>
  <br>
  
  - 🎓 I'm gradueted in Systems Analysis and Development at FATEC-SJC
@@ -9,9 +9,10 @@
 <br>
 
 
-<br><br>
+<br>
 <div align="center">
   <a href="https://github.com/JulianeFreitass">
+   <br>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JulianeFreitass&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="160m" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianeFreitass&layout=compact&hide=jupyter%20notebook&langs_count=7&theme=cobalt"/>
 </div>
