@@ -3,7 +3,7 @@
 <img align="right" src="./imgs/user.png"  width="200"/><br><br>
  <br>
  
- - 🎓 I'm gradueted in Systems Analysis and Development at FATEC-SJC
+ - 🎓 I'm graduated in Systems Analysis and Development at FATEC-SJC
  - 📚 I'm currently studying MBA in software quality management
 
 <br>
